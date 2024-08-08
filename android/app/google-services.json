@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "798228435749",
+    "project_id": "chatapp-f2600",
+    "storage_bucket": "chatapp-f2600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798228435749:android:68a3c9993e895cd17a40cc",
+        "android_client_info": {
+          "package_name": "com.e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798228435749-kgdhge9p2d65jop0frhvigdgi91im3lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgW14W0_bQlJrswH-tOvEchdCJ3iLPXyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798228435749-kgdhge9p2d65jop0frhvigdgi91im3lj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798228435749-tndnlfogfh83l0cb9u8nq6ad7l413hfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatuiapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798228435749:android:56b99e61672351647a40cc",
+        "android_client_info": {
+          "package_name": "com.example.chatuiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798228435749-r6shhnugj6fej1a0lb7o37b11218q04r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatuiapp",
+            "certificate_hash": "a6a6f8f707e1927fc275d960c628d7d5927f2b08"
+          }
+        },
+        {
+          "client_id": "798228435749-kgdhge9p2d65jop0frhvigdgi91im3lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgW14W0_bQlJrswH-tOvEchdCJ3iLPXyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798228435749-kgdhge9p2d65jop0frhvigdgi91im3lj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798228435749-tndnlfogfh83l0cb9u8nq6ad7l413hfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatuiapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798228435749:android:1c8fedd912eb82fc7a40cc",
+        "android_client_info": {
+          "package_name": "com.example.chatuiapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798228435749-a1ob0donm9sepe90ddojq3q1vfbic16d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatuiapp.android",
+            "certificate_hash": "a6a6f8f707e1927fc275d960c628d7d5927f2b08"
+          }
+        },
+        {
+          "client_id": "798228435749-kgdhge9p2d65jop0frhvigdgi91im3lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgW14W0_bQlJrswH-tOvEchdCJ3iLPXyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798228435749-kgdhge9p2d65jop0frhvigdgi91im3lj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798228435749-tndnlfogfh83l0cb9u8nq6ad7l413hfp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatuiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
